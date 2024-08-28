@@ -1,5 +1,4 @@
 // Placeholder to host a component
-// Placeholder to host a component
 import React from 'react';
 
 const Hours = () => {
@@ -36,3 +35,4 @@ const Hours = () => {
 };
 
 export default Hours;
+
